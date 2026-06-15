@@ -85,10 +85,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/kamaleshayyanar-coder">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kamalesha1612&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kamaleshayyanar-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/kamaleshayyanar-coder">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesha1612&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshayyanar-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -105,7 +105,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalesha1612&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaleshayyanar-coder&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -113,7 +113,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamalesha1612&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kamaleshayyanar-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
